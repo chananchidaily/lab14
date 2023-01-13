@@ -73,3 +73,4 @@ void stat (const double A[],int N,double B[]){
     B[4] = Max(A,N);
     B[5] = Min(A,N);
     }
+    
